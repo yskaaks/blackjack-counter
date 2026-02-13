@@ -1,5 +1,2 @@
-mss
-opencv-python
-numpy
-keyboard
-tk
+# No dependencies — this is a static web app.
+# Just open index.html in your browser.
